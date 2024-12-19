@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CMyDdata7" Collapsed="true">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAgAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Chapter 7 - 상속 심화.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyData7Ex" Collapsed="true">
+    <Position X="6.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAgAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Chapter 7 - 상속 심화.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyDataptr" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Chapter 7 - 상속 심화.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyDataptrEx" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Chapter 7 - 상속 심화.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vtable">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Chapter 7 - 상속 심화.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vtableEx" Collapsed="true">
+    <Position X="3.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAgAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Chapter 7 - 상속 심화.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyInterface" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Chapter 7 - 상속 심화.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyInterfaceEx" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABEAAAABACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Chapter 7 - 상속 심화.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyObject">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAEAAAAAAAAAAAAAAAAAAAEAAIAAAAA=</HashCode>
+      <FileName>Chapter 7 - 상속 심화.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyTV">
+    <Position X="10" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Chapter 7 - 상속 심화.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyPhone">
+    <Position X="12.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Chapter 7 - 상속 심화.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
